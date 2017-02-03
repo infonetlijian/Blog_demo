@@ -1,8 +1,9 @@
 ---
-layout:default
-title:欢迎
+layout: post
+title:  "Welcome to Mr.Cheng's Blog"
+date:   2016-02-12 17:50:00
+categories: main
 ---
-{{page.title}}
 
 # 欢迎来到李健的博客
 [**个人简介**](https://github.com/infonetlijian/blog/raw/master/photos/myself.jpg)
