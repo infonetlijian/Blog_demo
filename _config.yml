@@ -1,13 +1,13 @@
 # Setup
 title:        李健的博客
 tagline:      欢迎来到通信攻城狮的世界
-baseurl:      ""
+baseurl:      "https://infonetlijian.github.io/Blog_demo/"
 paginate:     1
 
 # About/contact
 author:
   name:       李健
-  url:        https://infonetlijian.github.io/blog/
+  url:        https://infonetlijian.github.io/Blog_demo/
 #### Author information
 author:
   name: 李健     ## e.g. wuchong Author name
