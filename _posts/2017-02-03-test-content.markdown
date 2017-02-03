@@ -5,7 +5,7 @@ date:   2017-02-03 23:50:00
 categories: main
 ---
 
-![个人简介](https://github.com/infonetlijian/blog/raw/master/photos/myself.jpg)
+![个人简介](https://github.com/infonetlijian/blog/raw/master/photos/picture.jpg)
 <br>
 **个人简介**：<br>
 在读硕士
