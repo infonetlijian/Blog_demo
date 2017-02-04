@@ -7,24 +7,24 @@ categories: main
 
 这两天被JAVA下关于读写文本文件的操作给弄伤了，怎么调都有问题，其实读写无非就是用Reader和Writer下的类进行操作，但是我想边读边写一个文本文件，以实现近修改配置文本文件(作为程序执行时的Setting文件)中的部分行，但就是不停出错。今天终于发现问题就出在“边读边写同一个文件”这里，首先给出一个正确操作的代码：
 
-```markdown
+```Java
 public void write(){
-inputStream = Settings.class.getClass().getResourceAsStream(FILEPATH);
-reader = new BufferedReader(new InputStreamReader(inputStream,"GBK"));
-while ((read = reader.readLine()) != null) {
-content.add(read);
-}
-reader.close();
-outputStream = new FileOutputStream(file);
-writer = new PrintWriter(outputStream);
-for (String s : content){
-if (s.startsWith(name)){
-writer.println(name + " = " + value);
-}
-else
-writer.println(s);
-}
-writer.close();
+	inputStream = Settings.class.getClass().getResourceAsStream(FILEPATH);
+	reader = new BufferedReader(new InputStreamReader(inputStream,"GBK"));
+	while ((read = reader.readLine()) != null) {
+		content.add(read);
+	}
+	reader.close();
+	outputStream = new FileOutputStream(file);
+	writer = new PrintWriter(outputStream);
+	for (String s : content){
+		if (s.startsWith(name)){
+			writer.println(name + " = " + value);
+	}
+	else
+		writer.println(s);
+	}
+	writer.close();
 }
 ```
 
