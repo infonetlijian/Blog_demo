@@ -2,11 +2,11 @@
 title:        李健的博客
 tagline:      欢迎来到通信攻城狮的世界
 baseurl:      "https://infonetlijian.github.io/Blog_demo/"
-paginate:     1
+paginate:     2
 
 # About/contact
 author:
-  name:       李健
+  name:       Mr.Cheng
   url:        https://infonetlijian.github.io/Blog_demo/
 #### Author information
 author:
@@ -25,10 +25,6 @@ author:
   google_plus:    ## e.g. "111190881341800841449" for https://plus.google.com/u/0/111190881341800841449, the "" is needed!
   stackoverflow:  ## e.g. 3222790 for http://stackoverflow.com/users/3222790/jark
 ## if you set them, the corresponding  share button will show on the footer
-#### Links
-links:
-  码农圈: https://coderq.com
-  开发技术前线: http://www.devtf.cn
 
 # Gems
 gems:
