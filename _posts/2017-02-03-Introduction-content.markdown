@@ -17,8 +17,7 @@ categories: main
 <br>
 **联系方式**：<br>
 E-mail: lijian9@mail.ustc.edu.cn <br>
-![weibo](https://github.com/infonetlijian/Blog_Demo/raw/master/photos/weibo.jpg)
-[weibo]:http://weibo.com/laizibazhongdejianshu "来自八中的健叔"
+[Weibo:](http://weibo.com/laizibazhongdejianshu "来自八中的健叔")来自八中的健叔
 <br>
 [**实验室主页**](http://if.ustc.edu.cn)<br>
 <br>
