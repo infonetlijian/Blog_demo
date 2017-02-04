@@ -9,6 +9,8 @@ categories: main
 <br>
 ```Java
 public void write(){
+```
+```markdown
 inputStream = Settings.class.getClass().getResourceAsStream(FILEPATH);
 reader = new BufferedReader(new InputStreamReader(inputStream,"GBK"));
 while ((read = reader.readLine()) != null) {
