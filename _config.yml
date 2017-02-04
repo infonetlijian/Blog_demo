@@ -2,7 +2,7 @@
 title:        李健的博客
 tagline:      欢迎来到通信攻城狮的世界
 baseurl:      "https://infonetlijian.github.io/Blog_demo/"
-paginate:     2
+paginate:     1
 
 # About/contact
 author:
@@ -10,7 +10,8 @@ author:
   url:        https://infonetlijian.github.io/Blog_demo/
 #### Author information
 author:
-  name: 李健     ## e.g. wuchong Author name
+  name:       Mr.Cheng
+  url:        https://infonetlijian.github.io/Blog_demo/
   intro_line1:  "Hello ,I'm Mr.Cheng."    ## your introduction on the bottom of the page
   intro_line2:  "This is my blog, believe it or not."  ## the 2nd line
   weibo:      ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
