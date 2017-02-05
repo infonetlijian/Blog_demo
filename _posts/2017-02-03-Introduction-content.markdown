@@ -22,7 +22,7 @@ Weibo:[来自八中的健叔](http://weibo.com/laizibazhongdejianshu "来自八�
 [**实验室主页**](http://if.ustc.edu.cn)<br>
 <br>
 <br>
-![个人简介](https://github.com/infonetlijian/Blog_demo/raw/master/photos/picture.jpg)
+![个人简介](https://github.com/infonetlijian/Blog_demo/raw/gh-pages/photos/picture.jpg)
 
 
 
