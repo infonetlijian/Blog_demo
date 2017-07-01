@@ -4,9 +4,6 @@ tagline:      欢迎来到通信攻城狮的世界
 baseurl:      "https://infonetlijian.github.io/Blog_demo/"
 paginate:     1
 
-timezone: Asia/Hefei
-encoding: "utf-8"
-
 # About/contact
 author:
   name:       Mr.Cheng
