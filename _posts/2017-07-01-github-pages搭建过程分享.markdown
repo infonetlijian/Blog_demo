@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "github-pages 个人博客搭建过程分享"
+title:  "Github-pages 个人博客搭建过程分享"
 date:   2017-07-01 11:10:00
 categories: main
 ---
 
 
-博客搭建资料分享：[**知乎**](https://www.zhihu.com/question/20962496)<br>
-
+博客搭建资料分享：[**知乎**](https://www.zhihu.com/question/20962496)，[**个人建站实录**](http://alfred-sun.github.io/blog/2014/12/05/github-pages/)<br>
 
 
 
