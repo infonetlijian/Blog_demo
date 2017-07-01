@@ -9,7 +9,8 @@ categories: main
 **个人简介**：<br>
 在读硕士
 2015年毕业于安徽大学，获工学学士学位；
-2015年至今，在中国科学技术大学信息网络实验室攻读硕士学位。<br>
+2015年-2017年，在中国科学技术大学信息网络实验室攻读硕士学位；<br>
+2017年6月，申请硕博连读，继续在中国科学技术大学信息网络实验室攻读博士学位。<br>
 <br>
 **学术著作**：<br>
 [1] Jian Li, Hancheng Lu, Yali Wang. Temporal Netgrid Model based Routing Optimization in Satellite Networks. Accepted, IEEE ICC 2017.<br>
