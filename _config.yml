@@ -27,8 +27,10 @@ author:
   stackoverflow:  ## e.g. 3222790 for http://stackoverflow.com/users/3222790/jark
 ## if you set them, the corresponding  share button will show on the footer
 
+disqus: true
+disqus_shortname: NathenDrake
 # Gems
-gems:
+gems: 
   - jekyll-paginate
 
 #Others
