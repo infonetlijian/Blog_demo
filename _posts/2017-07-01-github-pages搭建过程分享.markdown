@@ -6,8 +6,7 @@ categories: main
 ---
 
 
-博客搭建资料分享：[**知乎**](https://www.zhihu.com/question/20962496)，[**个人建站实录**](http://alfred-sun.github.io/blog/2014/12/05/github-pages/)<br>
-
+博客搭建资料分享：[**知乎**](https://www.zhihu.com/question/20962496)，[**个人建站实录**](http://alfred-sun.github.io/blog/2014/12/05/github-pages/)，[**如何添加插件的参考资料**](http://www.tuicool.com/articles/BVVBvu)<br>
 
 
 
