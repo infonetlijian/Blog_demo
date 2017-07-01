@@ -6,7 +6,7 @@ paginate:     1
 
 timezone: Asia/Hefei
 encoding: "utf-8"
-side_bar_repo_limit: 5
+
 # About/contact
 author:
   name:       Mr.Cheng
@@ -29,7 +29,7 @@ author:
   google_plus:    ## e.g. "111190881341800841449" for https://plus.google.com/u/0/111190881341800841449, the "" is needed!
   stackoverflow:  ## e.g. 3222790 for http://stackoverflow.com/users/3222790/jark
 ## if you set them, the corresponding  share button will show on the footer
-permalink: /:year/:month/:day/:title/
+
 # Gems
 gems: 
   - jekyll-paginate
