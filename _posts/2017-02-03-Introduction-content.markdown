@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "个人简介"
+title:  "Individual Resume"
 date:   2017-02-03 23:50:00
 categories: main
 ---
 
 
-**个人简介**：<br>
+**Individual Resume**：<br>
 I'm currently working on my Ph.D degree at USTC, InfoLab.
 <br>
 **Academic Papers**：<br>
