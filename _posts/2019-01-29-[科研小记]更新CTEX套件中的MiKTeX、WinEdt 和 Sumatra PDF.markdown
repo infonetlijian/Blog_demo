@@ -18,11 +18,11 @@ SumatraPDF：前往[**SumatraPDF**](https://www.sumatrapdfreader.org/download-fr
 <br>
 2.首先安装CTEX套件：选择语言，中文简体->ok->下一步->接受许可协议，在选择安装组件时注意要把MiKTeX的选项勾选掉，并同时保留住其他四项，尤其是WinEdt一定要保留。继续，下一步，选择默认安装路径为 C:\CTEX，完成CTeX套装的安装。
 <br>
-3. 安装最新版MiKTeX：在C:\CTEX路径下新建一个空文件夹并命名为“MiKTeX”，双击basic-miktex-2.9.6753-x64.exe，启动安装程序。在安装过程中，选择安装路径为：C:\CTEX\MiKTeX, 然后一路选择默认选项，继续完成安装。
+3.安装最新版MiKTeX：在C:\CTEX路径下新建一个空文件夹并命名为“MiKTeX”，双击basic-miktex-2.9.6753-x64.exe，启动安装程序。在安装过程中，选择安装路径为：C:\CTEX\MiKTeX, 然后一路选择默认选项，继续完成安装。
 <br>
 4.替换最新版 WinEdt：注意，不要手动删除C:\CTEX中的任何旧版WinEdt文件，直接将winedt103-64.exe拷贝到C:\CTEX\WinEdt文件夹，双击exe文件开始覆盖安装，完成。此时WinEdt仍是31天试用版本，支持正版。如有非盈利的工作需要，常用破解方法有两种：
 <br>
-1).注册码破解，源自于某位不认识大神的贡献，亲测有效，非常感谢。
+	1).注册码破解，源自于某位不认识大神的贡献，亲测有效，非常感谢。
 
 Name:Cracker TeCHiScy
 <br>
@@ -36,7 +36,7 @@ Code:1130140925535334280
 [**引用网址2**](https://www.52pojie.cn/thread-595351-1-1.html)
 <br>
 
-2）.无限延长试用期的方法，这也是应用最多的方法，通过修改WinEdt里的exit文件，使得每次退出都会清除当前的试用时间，具体方法这里不再赘述，附上一个网址：[**按照步骤来就行**](https://jingyan.baidu.com/article/d2b1d102913bbd5c7e37d4e4.html)
+	2）.无限延长试用期的方法，这也是应用最多的方法，通过修改WinEdt里的exit文件，使得每次退出都会清除当前的试用时间，具体方法这里不再赘述，附上一个网址：[**按照步骤来就行**](https://jingyan.baidu.com/article/d2b1d102913bbd5c7e37d4e4.html)
 <br>
 注意：将需要添加语句  RegDeleteValue('HKEY_CURRENT_USER', 'Software\WinEdt 8', 'Inst'); 的版本号改为自己的版本号，比如上面是8，如果用的是10.2的话，改为10就行。
 <br>
