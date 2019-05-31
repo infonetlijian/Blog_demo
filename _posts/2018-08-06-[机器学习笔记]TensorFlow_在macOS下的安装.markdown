@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "TensorFlow 学习笔记 - TensorFlow 在macOS下的安装"
+title:  "[机器学习笔记] - TensorFlow 在macOS下的安装"
 date:   2018-8-6 10:42:00
 categories: main
 ---

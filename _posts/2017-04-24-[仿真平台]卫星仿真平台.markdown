@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "one仿真平台的扩展-卫星网络仿真"
+title:  "[仿真平台]one仿真平台的扩展-卫星网络仿真"
 date:   2017-04-24 19:06:00
 categories: main
 ---
@@ -13,6 +13,13 @@ categories: main
 <br>
 目前这个仿真器命名为Large-scale Satellite Network Simulator (LSNS)，目前对于大规模卫星网络的路由算法以及协同缓存机制在后台均已实现，前端的图形界面也在进一步的完善当中，希望能够近期做出一个较为完善的版本。
 可惜由于自己要进行新的科研方向，同时也为了毕业，不得不专心转向做paper，以后可能也就不会再参与这个项目了。代码应该还是会根据项目组的进度进一步更新。希望项目能够一番风顺，不出bug...
+<br>
+May 2019 -- Update
+由于各种各样的原因，有关项目的中文更新很长一段时间被我遗忘在此。十分遗憾。
+<br>
+因为项目即将告一段落，仿真平台的开发工作也基本已经停止。目前我们组对有关卫星网络仿真的轨道计算、路由机制、底层链路模型等均做了相应的实现，前端的图形界面由于展示效果不够理想，所以被设置成可选启动项。论文方面，有一篇相关论文"Temporal Netgrid Model based Dynamic Routing in Large-Scale Small Satellite Networks"发表在IEEE Transactions on Vehicular Technology期刊。
+<br>
+如有从事相关科研题目的同学，也欢迎与我们联系，继续推动仿真平台的开发工作。
 
 
 <div id="disqus_thread"></div>
