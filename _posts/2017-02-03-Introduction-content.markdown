@@ -1,19 +1,15 @@
 ---
 layout: post
-title:  "Individual Resume"
+title:  "Author Infomation"
 date:   2017-02-03 23:50:00
 categories: main
 ---
 
 
-**Individual Resume**：<br>
 I'm currently working on my Ph.D degree at USTC, InfoLab.
 <br>
-**Academic Papers**：<br>
-Zhikai Zhu, Hancheng Lu, Jian Li, Xiaoda Jiang. Service Function Chain Mapping with Resource Fragmentation Avoidance. IEEE GLOBECOM, 1-6, 2017.<br>
-Jian Li, Hancheng Lu, Yali Wang. Temporal Netgrid Model based Routing Optimization in Satellite Networks. IEEE ICC, 1-6, 2017.<br>
-Yali Wang, Hancheng Lu, Zexue Li, Jian Li. Robust Satellite Image Transmission over Bandwidth-Constrained Wireless Channel. IEEE ICC 1-6, 2017.<br>
-Hao Wu, Jian Li, Hancheng Lu, Peilin Hong. A Two-layer Caching Model for Content Delivery Services in Satellite-terrestrial Networks. IEEE GLOBECOM, 1-6, 2016.<br>
+**Google Scholar**：(https://scholar.google.com/citations?hl=zh-CN&user=ZuP2MtEAAAAJ)<br>
+
 <br>
 **Contacts**：<br>
 E-mail: lijian9@mail.ustc.edu.cn <br>
