@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "[科研小记]关于Latex参考文献中遇到变音符号(西语字母)的问题"
+date:   2019-03-07 11:24:00
+categories: main
+---
+
+在引用外文文献时，时常会碰到一些西语国家的作者，他们的人名中都带有一些特殊字符，例如Pérez和Vázquez等变音字符。为了正确在latex中显示这些字符，可以采用以下命令(只列出一些常见字符)：<br>
+\\"a   --> 显示为ä <br>
+\\'a   --> 显示为á <br>
+\\v{z} --> 显示为ž <br>
+\\`{u} --> 显示为ù <br>
+\\~{a} --> 显示为ã <br>
+\\^{a} --> 显示为â <br>
+[**相关参考网站**](https://oomake.com/question/200085)
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://nathendrake.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
