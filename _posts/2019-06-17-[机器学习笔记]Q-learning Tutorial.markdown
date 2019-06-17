@@ -13,13 +13,13 @@ categories: main
 [Q-learning 讲解](https://www.zhihu.com/question/26408259)<br>
 
 ![Q-learning](/photos/graphics/Q-learning_tutorial-1.png)<br>
-![Q-learning](http://github.com/infonetlijian/Blog_demo/tree/gh-pages/photos/graphics/Q-learning_tutorial-2.png)<br>
-![Q-learning](https://github.com/infonetlijian/Blog_demo/tree/gh-pages/photos/graphics/Q-learning_tutorial-3.png)<br>
-![Q-learning tutorial](https://github.com/infonetlijian/Blog_demo/tree/gh-pages/photos/graphics/Q-learning_tutorial-4.png)<br>
-![Q-learning tutorial](https://github.com/infonetlijian/Blog_demo/tree/gh-pages/photos/graphics/Q-learning_tutorial-5.png)<br>
-![Q-learning tutorial](https://github.com/infonetlijian/Blog_demo/tree/gh-pages/photos/graphics/Q-learning_tutorial-6.png)<br>
-![Q-learning tutorial](https://github.com/infonetlijian/Blog_demo/tree/gh-pages/photos/graphics/Q-learning_tutorial-7.png)<br>
-![Q-learning tutorial](https://github.com/infonetlijian/Blog_demo/tree/gh-pages/photos/graphics/Q-learning_tutorial-8.png)<br>
+![Q-learning](photos/graphics/Q-learning_tutorial-2.png)<br>
+![Q-learning](./photos/graphics/Q-learning_tutorial-3.png)<br>
+![Q-learning](http://github.com/infonetlijian/Blog_demo/tree/gh-pages/photos/graphics/Q-learning_tutorial-4.png)<br>
+![Q-learning](https://github.com/infonetlijian/Blog_demo/tree/gh-pages/photos/graphics/Q-learning_tutorial-5.png)<br>
+![Q-learning](https://github.com/infonetlijian/Blog_demo/tree/gh-pages/photos/graphics/Q-learning_tutorial-6.png)<br>
+![Q-learning](https://github.com/infonetlijian/Blog_demo/tree/gh-pages/photos/graphics/Q-learning_tutorial-7.png)<br>
+![Q-learning](https://github.com/infonetlijian/Blog_demo/tree/gh-pages/photos/graphics/Q-learning_tutorial-8.png)<br>
 
 
 
