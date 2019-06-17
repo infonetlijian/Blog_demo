@@ -13,8 +13,8 @@ categories: main
 [Q-learning 讲解](https://www.zhihu.com/question/26408259)<br>
 
 ![Q-learning](/photos/graphics/Q-learning_tutorial-1.jpg)<br>
-![Q-learning tutorial](https://github.com/infonetlijian/Blog_demo/tree/gh-pages/photos/graphics/Q-learning_tutorial-2.jpg)<br>
-![Q-learning tutorial](https://github.com/infonetlijian/Blog_demo/tree/gh-pages/photos/graphics/Q-learning_tutorial-3.jpg)<br>
+![Q-learning](http://github.com/infonetlijian/Blog_demo/tree/gh-pages/photos/graphics/Q-learning_tutorial-2.jpg)<br>
+![Q-learning](https://github.com/infonetlijian/Blog_demo/tree/gh-pages/photos/graphics/Q-learning_tutorial-3.jpg)<br>
 ![Q-learning tutorial](https://github.com/infonetlijian/Blog_demo/tree/gh-pages/photos/graphics/Q-learning_tutorial-4.jpg)<br>
 ![Q-learning tutorial](https://github.com/infonetlijian/Blog_demo/tree/gh-pages/photos/graphics/Q-learning_tutorial-5.jpg)<br>
 ![Q-learning tutorial](https://github.com/infonetlijian/Blog_demo/tree/gh-pages/photos/graphics/Q-learning_tutorial-6.jpg)<br>
