@@ -8,7 +8,18 @@ categories: main
 <br>
 
 一个有关Q-learning思想的简明教程：<br>
-https://blog.csdn.net/itplus/article/details/9361915<br>
+
+[Q-learning Tutorial](https://blog.csdn.net/itplus/article/details/9361915)<br>
+[Q-learning 讲解](https://www.zhihu.com/question/26408259)<br>
+
+![Q-learning tutorial](.\photos\graphics\Q-learning tutorial-1)<br>
+![Q-learning tutorial](.\photos\graphics\Q-learning tutorial-2)<br>
+![Q-learning tutorial](.\photos\graphics\Q-learning tutorial-3)<br>
+![Q-learning tutorial](.\photos\graphics\Q-learning tutorial-4)<br>
+![Q-learning tutorial](.\photos\graphics\Q-learning tutorial-5)<br>
+![Q-learning tutorial](.\photos\graphics\Q-learning tutorial-6)<br>
+![Q-learning tutorial](.\photos\graphics\Q-learning tutorial-7)<br>
+![Q-learning tutorial](.\photos\graphics\Q-learning tutorial-8)<br>
 
 
 
