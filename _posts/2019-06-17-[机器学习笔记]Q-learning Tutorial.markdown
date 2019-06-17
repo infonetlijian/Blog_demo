@@ -12,14 +12,14 @@ categories: main
 [Q-learning Tutorial](https://blog.csdn.net/itplus/article/details/9361915)<br>
 [Q-learning 讲解](https://www.zhihu.com/question/26408259)<br>
 
-![Q-learning tutorial](https://github.com/infonetlijian/Blog_demo/tree/gh-pages/photos/graphics/Q-learning tutorial-1.jpg)<br>
-![Q-learning tutorial](https://github.com/infonetlijian/Blog_demo/tree/gh-pages/photos/graphics/Q-learning tutorial-2.jpg)<br>
-![Q-learning tutorial](https://github.com/infonetlijian/Blog_demo/tree/gh-pages/photos/graphics/Q-learning tutorial-3.jpg)<br>
-![Q-learning tutorial](https://github.com/infonetlijian/Blog_demo/tree/gh-pages/photos/graphics/Q-learning tutorial-4.jpg)<br>
-![Q-learning tutorial](https://github.com/infonetlijian/Blog_demo/tree/gh-pages/photos/graphics/Q-learning tutorial-5.jpg)<br>
-![Q-learning tutorial](https://github.com/infonetlijian/Blog_demo/tree/gh-pages/photos/graphics/Q-learning tutorial-6.jpg)<br>
-![Q-learning tutorial](https://github.com/infonetlijian/Blog_demo/tree/gh-pages/photos/graphics/Q-learning tutorial-7.jpg)<br>
-![Q-learning tutorial](https://github.com/infonetlijian/Blog_demo/tree/gh-pages/photos/graphics/Q-learning tutorial-8.jpg)<br>
+![Q-learning tutorial](https://github.com/infonetlijian/Blog_demo/tree/gh-pages/photos/graphics/Q-learning_tutorial-1.jpg)<br>
+![Q-learning tutorial](https://github.com/infonetlijian/Blog_demo/tree/gh-pages/photos/graphics/Q-learning_tutorial-2.jpg)<br>
+![Q-learning tutorial](https://github.com/infonetlijian/Blog_demo/tree/gh-pages/photos/graphics/Q-learning_tutorial-3.jpg)<br>
+![Q-learning tutorial](https://github.com/infonetlijian/Blog_demo/tree/gh-pages/photos/graphics/Q-learning_tutorial-4.jpg)<br>
+![Q-learning tutorial](https://github.com/infonetlijian/Blog_demo/tree/gh-pages/photos/graphics/Q-learning_tutorial-5.jpg)<br>
+![Q-learning tutorial](https://github.com/infonetlijian/Blog_demo/tree/gh-pages/photos/graphics/Q-learning_tutorial-6.jpg)<br>
+![Q-learning tutorial](https://github.com/infonetlijian/Blog_demo/tree/gh-pages/photos/graphics/Q-learning_tutorial-7.jpg)<br>
+![Q-learning tutorial](https://github.com/infonetlijian/Blog_demo/tree/gh-pages/photos/graphics/Q-learning_tutorial-8.jpg)<br>
 
 
 
