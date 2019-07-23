@@ -129,6 +129,22 @@ title可加可不加
 <br>
 [使用参考说明](https://weilai5432.github.io/2017/01/11/MathJax-%E5%9C%A8MarkDown%E4%B8%AD%E6%8F%92%E5%85%A5%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F/)
 <br>
+但是需要**注意:**因为Github的Markdown并不支持MathJax的公式渲染，因此需要借助一个Chrome下的插件--[GitHub with MathJax 插件](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima)
+<br>
+装完之后再打开相关页面的公式就可以正常显示了。
+此问题的参考网址:
+<br>
+[Github markdown mathjax 公式渲染](https://blog.csdn.net/phdsky/article/details/81431279)
+<br>
+[Github issue - github’s markdown mathjax rending](https://github.com/github/markup/issues/897)
+<br>
+[Stackoverflow - How to show math equations in general github’s markdown](https://stackoverflow.com/questions/11256433/how-to-show-math-equations-in-general-githubs-markdownnot-githubs-blog)
+<br>
+## 十、添加注释<br>
+注释添加格式：
+<br>
+\<\!\-\- 此处为具体注释内容 \-\-\>
+<br>
 
 [**内容参考网址**](https://www.jianshu.com/p/191d1e21f7ed)<br>
 <br>

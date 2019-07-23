@@ -4,9 +4,11 @@ title:  "[知识梳理] - 信道仿真"
 date:   2019-7-23 10:11:00
 categories: main
 ---
+<!--用于加载MathJax插件必须借助chrome下的插件进行显示 -->
 <script type="text/javascript" async
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML" async>
 </script>
+
 **瑞利信道**
 <br>
 瑞利分布PDF：
@@ -30,6 +32,10 @@ categories: main
 \\(t=-\frac{1}{\lambda}In(1-rand(0.1))\\)
 。<br>
 通过随机生成服从0-1均匀分布的随机数，即可反求得服从Poission分布的随机样本。
+<br>
+<br>
+<br>
+注意：此页面公式需要借助一个Chrome下的插件--[GitHub with MathJax 插件](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima)进行显示。
 <br>
 
 <div id="disqus_thread"></div>
