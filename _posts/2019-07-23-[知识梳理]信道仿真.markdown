@@ -8,22 +8,34 @@ categories: main
 **瑞利信道**
 <br>
 瑞利分布PDF：
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default">
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 \\(f(x)=\frac{x}{\sigma^2}e^{\frac{-x^2}{2\sigma}},x>0\\)
-</script>
+
 <br>
 瑞利分布CDF：
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default">
 \\(F(x)=1-e^{\frac{-x^2}{2\sigma}}=\int_0^x f(x)dx\\)
 </script>
 <br>
+
 <br>
 **莱斯信道**
 <br>
-
-
-
-
+**如何生成服从任意分布的样本轨道**
+<br>
+在已知任意分布前提下，令其CDF = rand(0.1)，即服从0-1的均匀分布即可
+<br>
+举例：对于Possion分布，令其CDF
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default">
+\\(1-e^{-\lambda t}=rand(0.1)\\)
+</script>
+，从而可以得到
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default">
+\\(t=-\frac{1}{\lambda}In(1-rand(0.1))\\)
+</script>
+。<br>
+通过随机生成服从0-1均匀分布的随机数，即可反求得服从Poission分布的随机样本。
+<br>
 
 <div id="disqus_thread"></div>
 <script>
