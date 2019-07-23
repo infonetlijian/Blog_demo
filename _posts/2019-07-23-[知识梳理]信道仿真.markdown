@@ -3,15 +3,14 @@ layout: post
 title:  "[知识梳理] - 信道仿真"
 date:   2019-7-23 10:11:00
 categories: main
-<script type="text/javascript" async
-  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML" async>
-</script>
 ---
 
 **瑞利信道**
 <br>
 瑞利分布PDF：
-
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML" async>
+</script>
 \\(f(x)=\frac{x}{\sigma^2}e^{\frac{-x^2}{2\sigma}},x>0\\)
 
 <br>
