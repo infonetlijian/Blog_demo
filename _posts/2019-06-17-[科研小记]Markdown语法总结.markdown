@@ -123,6 +123,12 @@ title可加可不加
 
 <br>
 **代码块**：代码之间分别用三个反引号```包起来，且两边的反引号单独占一行<br>
+<br>
+## 九、数学公式<br>
+可以使用MathJax引擎跨浏览器渲染数学公式，是一个JavaScript库，[官方网站](https://www.mathjax.org/)
+<br>
+[使用参考说明](https://weilai5432.github.io/2017/01/11/MathJax-%E5%9C%A8MarkDown%E4%B8%AD%E6%8F%92%E5%85%A5%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F/)
+<br>
 
 [**内容参考网址**](https://www.jianshu.com/p/191d1e21f7ed)<br>
 <br>
