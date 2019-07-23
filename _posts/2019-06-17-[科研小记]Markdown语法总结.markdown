@@ -132,6 +132,7 @@ title可加可不加
 但是需要**注意:**因为Github的Markdown并不支持MathJax的公式渲染，因此需要借助一个Chrome下的插件--[GitHub with MathJax 插件](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima)
 <br>
 装完之后再打开相关页面的公式就可以正常显示了。
+<br>
 此问题的参考网址:
 <br>
 [Github markdown mathjax 公式渲染](https://blog.csdn.net/phdsky/article/details/81431279)
