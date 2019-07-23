@@ -51,6 +51,11 @@ Markdown是一种纯文本格式的标记语言。通过简单的标记语法，
 例如：<br>
 \!\[启动实例\]\(http://githubstatic.celerysoft.com/blog/assets/postImages/2016011502.png "启动实例"\)
 <br>
+嵌套使用：<br>
+\[\!\[Build Status\]\(https://secure.travis-ci.org/php/php-src.png?branch=master\)\]\(http://travis-ci.org/php/php-src\)<br>
+显示效果：<br>
+[![Build Status](https://secure.travis-ci.org/php/php-src.png?branch=master)](http://travis-ci.org/php/php-src)
+<br>
 ## 五、超链接<br>
 语法：<br>
 \[超链接名\]\(超链接地址 "超链接title"\)<br><br>

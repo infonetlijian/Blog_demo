@@ -1,23 +1,17 @@
 ---
 layout: post
-title:  "Author Infomation"
-date:   2017-02-03 23:50:00
+title:  "[知识梳理] - 信道仿真"
+date:   2019-7-23 10:11:00
 categories: main
 ---
-
-
-I'm currently working on my Ph.D degree at USTC, InfoLab.
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+**瑞利信道**
 <br>
-[**Google Scholar**]：(https://scholar.google.com/citations?hl=zh-CN&user=ZuP2MtEAAAAJ)<br>
-
+瑞利分布PDF：$$f(x)=\frac{x}{\sigma^2}e^{\frac{-x^2}{2\sigma}},x>0$$
+瑞利分布CDF：$$F(x)=1-e^{\frac{-x^2}{2\sigma}}=\int_0^x f(x)dx$$
 <br>
-**Contacts**：<br>
-E-mail: lijian9@mail.ustc.edu.cn <br>
+**莱斯信道**
 <br>
-[**InfoLab**](http://if.ustc.edu.cn)<br>
-<br>
-<br>
-
 
 
 
