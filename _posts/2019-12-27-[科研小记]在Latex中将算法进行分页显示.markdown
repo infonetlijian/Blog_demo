@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2019-12-27-[科研小记]在Latex中将算法进行分页显示"
+title:  "[科研小记]在Latex中将算法进行分页显示"
 date:   2019-12-27 16:22:00
 categories: main
 ---
