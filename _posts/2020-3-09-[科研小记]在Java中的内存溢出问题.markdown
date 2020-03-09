@@ -1,0 +1,69 @@
+---
+layout: post
+title:  "[科研小记]在Java中的内存溢出问题"
+date:   2020-3-09 18:46:00
+categories: main
+---
+
+最近在重新编写仿真平台时，发现程序运行时的内存占用从开始的300M一路飙升到7G，重新检查新写的代码，在以下对HashMap进行操作的时候会发生内存溢出的问题：
+<br>
+``java
+  private HashMap<DTNHost, List<Double>> channelStatusRecord = new HashMap<DTNHost, List<Double>>();
+  private void connectionUpdate(){
+    for (Connection con : getConnections()) {
+      con.update();
+      double currentSpeed = con.getSpeed();
+      DTNHost otherNode = con.getOtherNode(this.getHost());
+      List<Double> record = this.channelStatusRecord.get(otherNode);
+      if (record == null)
+        record = new ArrayList<Double>();
+      record.add(currentSpeed);
+      this.channelStatusRecord.put(otherNode, record);
+    }
+  }
+``java
+<br>
+当执行最后一行代码时，会造成内存占用大幅度增加，在修改代码的过程中，觉得这里可能是因为channelStatusRecord这一HashMap初始化时的key和value皆为null，每次我将record = new ArrayList<Double>()重新put回去时，会造成hashcode的改变，进而每次无法释放HashMap里的对ArrayList的引用，造成重复内存占用。修改后的代码为：
+<br>
+``java
+  private void connectionUpdate(){
+    for (Connection con : getConnections()) {
+      con.update();
+      double currentSpeed = con.getSpeed();
+      DTNHost otherNode = con.getOtherNode(this.getHost());
+      List<Double> oldRecord;
+      if (this.channelStatusRecord.get(otherNode) == null) {
+        oldRecord = new ArrayList<Double>();
+      }
+      else {
+        oldRecord = this.channelStatusRecord.get(otherNode);
+        this.channelStatusRecord.remove(otherNode);//memory release, avoid hashcode change in a hashmap
+      }
+      //warning: here can easily cause memory leak, please double check if you need to change the code
+        this.channelStatusRecord.put(otherNode, oldRecord);
+    }
+  }
+  ``java
+<br>
+这样就一切正常了。
+<br>
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://nathendrake.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
