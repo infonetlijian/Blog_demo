@@ -8,8 +8,13 @@ categories: main
 下面这个博客关于各类Point process以及Cluster Process的原理以及相应的仿真实现讲解的十分清楚，在此引用网址作为参考（部分）：
 <br>
 [**Poisson point process**](https://hpaulkeeler.com/checking-poisson-point-process-simulations/)
+<br>
+[**Simulating a homogeneous Poisson point process on a rectangle**](https://hpaulkeeler.com/poisson-point-process-simulation/)
+<br>
 [**Binomial point process**](https://hpaulkeeler.wordpress.com/2018/07/01/point-process-simulation/)
+<br>
 [**Thomas cluster point process**](https://hpaulkeeler.com/simulating-a-thomas-cluster-point-process/)
+<br>
 [**Matérn cluster point process**](https://hpaulkeeler.com/simulating-a-matern-cluster-point-process/)
 <br>
 更多内容可以在其博文下进行搜索。
